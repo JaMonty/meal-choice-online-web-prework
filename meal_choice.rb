@@ -1,4 +1,5 @@
 # Define a method meal_choice that returns the meal_choice that was
 # passed into it and defaults to meat.
 def '#meal_choice'
-  expect(meat choice).to eq
+  expect(meat choice).to eq("meat")
+end
